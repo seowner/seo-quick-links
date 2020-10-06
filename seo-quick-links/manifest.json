@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "SEO Quick Links",
+  "description": "SEO Quick Links by SEOwner @tehseowner",
+  "version": "0.1",
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+	},
+  "permissions": [
+	   "activeTab",
+		"<all_urls>"
+   ]
+}

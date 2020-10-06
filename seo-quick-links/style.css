@@ -1,0 +1,65 @@
+html { margin:0; padding:0;}
+body { font-family:'Open Sans'; margin:0; padding:0; border: 10px solid #cccccc;}
+
+.main {
+width:400px;
+height:170px;
+margin-top:0px;
+padding:10px;
+}
+
+.main_section {
+width:50%;
+float:left;
+margin-bottom:20px;
+}
+
+.section_header {
+font-size:21px;
+}
+
+.section_header img {
+width:22px;
+border: 1px solid #000;
+border-radius:5px;
+vertical-align:middle;
+margin-bottom:2px;
+}
+
+#maj_link {
+margin-top:10px;
+}
+
+#maj_link a {
+font-size: 14px !important;
+}
+
+
+#google_link {
+margin-top:10px;
+}
+
+#google_link a {
+font-size: 14px !important;
+}
+
+#semrush_link {
+margin-top:10px;
+}
+
+#semrush_link a {
+font-size: 14px !important;
+}
+
+#ahrefs_link {
+margin-top:10px;
+}
+
+#ahrefs_link a {
+font-size: 14px !important;
+}
+
+
+#text_head {
+font-size: 14px !important;
+}
